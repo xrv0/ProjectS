@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.44552165, g: 0.49519253, b: 0.57410944, a: 1}
+  m_IndirectSpecularColor: {r: 0.44552124, g: 0.495192, b: 0.57410824, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -348,7 +348,7 @@ PrefabInstance:
     - target: {fileID: 7131750682702885085, guid: 564481146f05ad44ea7b5e991802466d,
         type: 3}
       propertyPath: m_Name
-      value: Cube
+      value: 'Ground '
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 564481146f05ad44ea7b5e991802466d, type: 3}
