@@ -2,7 +2,7 @@
 
 public class CameraController : MonoBehaviour {
 
-    public float panSpeed = 20f;
+    public float panSpeed = 10f;
     public float panBorderThickness = 10f;
 
     // Update is called once per frame
